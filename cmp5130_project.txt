@@ -1,0 +1,55 @@
+	CMP5130 - PR & ML
+2021-2022 Fall Term Project
+
+Important Notes
+
+- Project report submission deadline: January 7-2022, 23:59 (Strict)
+
+- Submit your report through itslearning as a single PDF file. You should use the attached file as report template. The source code will be given in the Appendix section of the report.
+
+- This is NOT a group project. You should work individually. 
+---------------------
+
+Grading of Project
+
+Report: 35%
+Quality of Work: 40%
+Presentation: 25%
+
+---------------------
+
+Important Instructions 
+
+- The presentations will be held at January 11, 2022 and January 18, 2022. I will later announce the exact presentation dates.
+
+- Choose one or more datasets from Kaggle, UCI machine learning repository or any other internet source. You are also allowed to use a dataset belonging to the company or organization you work for if you have the required permissions. 
+
+- The dataset(s) you will use in your projects should not be older than 2012. 
+
+- Your experiments should be presented in a comparative manner, i.e. not an application of a single method to a single dataset. For example, comparing multiple clustering algorithms under different conditions, comparing feature selection algortihms based on different criterion, etc.
+
+- Implementation can be done with any programming language. You may use any packages, functions, classes, etc.
+
+---------------------
+
+Project Report Instructions
+
+In the project report, you should:
+
+- Divide the report into 6 sections: (1) Introduction, (2) Dataset Description, (3) Methods, (4) Experimental Results, (5) Conclusions, (6) Appendix.
+
+- The source code will be given in (6) Appendix section of the report.
+
+- Clearly define the aim of the project in introduction section. You may use the methods we have covered until now this semester or any other machine learning method. 
+
+- Give a review of the related works about your project topics.
+
+- Briefly summarize the methods you have implemented in your project with your own words. 
+
+- Give the experimental results with tables and/or figures. Make comments and compare the algorithms with proper evaluation metrics depending on the structure of your problem and dataset.
+
+---------------------
+
+Submission Instructions
+
+- Submit your report through itslearning as a single PDF file. You should use the attached file as report template. The source code will be given in the Appendix section of the report.
